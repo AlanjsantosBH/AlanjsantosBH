@@ -1,6 +1,6 @@
 - 👋 Ola Eu sou @AlanjsantosBH
 - 👀 Trabalho com Seguraça da Informação
-- 🌱 I’m currently learning ...Estou aprofundando meus conhecimentos em Pentenst e Devops
+- 🌱 Estou aprofundando meus conhecimentos em Pentenst e Devops
 - 💞️ 
 - 📫 
 
